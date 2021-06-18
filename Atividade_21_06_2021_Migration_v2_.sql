@@ -1,0 +1,1 @@
+-- Cria tabela Consula com as seguintes colunas (id - primary key, data - date, animal - fk da tabela animal)

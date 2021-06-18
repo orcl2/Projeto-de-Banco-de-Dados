@@ -1,0 +1,2 @@
+-- Altera a tabela Consulta modificando o campo 'data' para o timpo 'timestamp'.
+-- **BONUS** Inclui coluna hora na tabela Consulta

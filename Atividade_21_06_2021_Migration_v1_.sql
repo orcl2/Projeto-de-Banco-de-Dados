@@ -1,0 +1,4 @@
+-- Alteração da tabela Animal adicionando coluna dono como chave estrangeira
+-- Ateração da tabela Especie renomeando-a para Raca
+-- Alteração da tabela Dono para Tutor
+-- Alteração da coluna dono para tutor na tabela Animal

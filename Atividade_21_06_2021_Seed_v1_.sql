@@ -1,0 +1,3 @@
+-- Altera o nome do cachorro 'Brutus' para 'Rex’ na tabela Animal.
+-- Exclui o cachorro com nome 'toto' que seja da raça 'poodle’ na tabela Animal.
+-- Altera o dono da cachorra 'Lica' para o dono 'Maria' na tabela Animal.

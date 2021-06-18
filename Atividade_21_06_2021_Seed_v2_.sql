@@ -1,0 +1,5 @@
+-- Insere os dados abaixo na tabela Consulta
+-- | id |    data    |  animal  |  hora |
+-- | 1  | 12/01/2007 |     1    | 07:00 |
+-- | 2  | 12/01/2007 |     3    | 08:00 |
+-- | 3  | 13/01/2007 |     1    | 07:00 |
